@@ -1,4 +1,4 @@
-# Portfolio de Ciencia de Datos
+# Portafolio de Ciencia de Datos
 
 ---
 
@@ -11,7 +11,7 @@ Análisis Exploratorio con Python de las Tasas de Suicidio en el mundo, informad
 
 ---
 
-### Mis Skills son
+### Mis Skills son:
 
 - Python
 - R
@@ -20,7 +20,7 @@ Análisis Exploratorio con Python de las Tasas de Suicidio en el mundo, informad
 
 ---
 
-### Me puedes contactar por una de estás vías
+### Me puedes contactar por una de estas vías:
 
 - [LinkedIn](https://www.linkedin.com/in/miguel-angel-oyarzo-altamirano-70758837/)
 - Correo electrónico a <miguelo1985@gmail.com>
