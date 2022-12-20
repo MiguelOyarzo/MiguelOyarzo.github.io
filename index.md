@@ -7,7 +7,7 @@
 
 Análisis Exploratorio con Python de las Tasas de Suicidio en el mundo, informadas por la OMS desde el 2000 al 2019. [Seguir leyendo en Medium](https://medium.com/p/9259e8c67580) o [Ver código en GitHub](https://github.com/MiguelOyarzo/Explorando-datos-de-suicidio-EDA-con-PYTHON.)
 
-[<img src="images/suicido.jpg?raw=true"/>](https://medium.com/p/9259e8c67580)
+[<img src="images/suicidio.jpg?raw=true"/>](https://medium.com/p/9259e8c67580)
 
 ---
 
