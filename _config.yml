@@ -1,14 +1,18 @@
 title: Miguel Angel Oyarzo Altamirano # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist, Ciudad, País
+  Médico Veterinario, Magister en Medicina Preventiva Veterinaria. Diplomado en Ciencia de Datos, Epidemiología e Inocuidad Alimentaria entre otros.
+  Cursando Máster en Ciencia de Datos.
+  Actualmente viviendo en Coyhaique, Chile
   <br><br>
   Mi objetivo es ___________
   <br><br>
-  Tengo experiencia en ___________
+  Tengo experiencia en diversas temáticas de salud pública, especialmente en enfermedades transmisibles y salud ambiental.
   <br><br>
-  <a href="https://www.linkedin.com/in/tulinkedin/">Entra a mi perfil de LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/miguel-angel-oyarzo-altamirano-70758837/">Entra a mi perfil de LinkedIn</a> 
   <br><br>
   <a href="/pdf/plantilla-curriculum-blanco.pdf">Mira mi Curriculum Vitae (CV) </a> 
   
 theme: jekyll-theme-minimal
+
+
